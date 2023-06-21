@@ -124,3 +124,5 @@ summary(filteredCorpus)
 
 #indexing with tm (numbers with a match)
 tm_index(simpCorp, FUN = function(x) grepl("Will not", x))
+
+########################################## Part2 ###############################
